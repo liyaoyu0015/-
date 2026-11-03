@@ -1,0 +1,21 @@
+{
+  "name": "表哥",
+  "description": "大头黑西装动画伙伴，带有俏皮指向手势。",
+  "spritesheet": "spritesheet.png",
+  "spriteVersion": 2,
+  "width": 1536,
+  "height": 2288,
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "columns": 8,
+  "rows": 11,
+  "framesPerRow": [6, 8, 8, 4, 5, 8, 6, 6, 6, 8, 8],
+  "sha256": "87db2c39fab3bd47fa1232b9ee9f06fbe839ff880e795138b3bc3154dddb515b",
+  "compatibility": {
+    "spritesheet": "spritesheet-v1-compat.png",
+    "spriteVersion": 1,
+    "width": 1536,
+    "height": 1872,
+    "note": "Same nine standard animations; no look-direction rows."
+  }
+}
